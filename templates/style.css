@@ -1,5 +1,10 @@
-.introduction {
+body {
     background-image: url("../images/background_1.jpg");
     background-position: center;
-    background-size: cover;
+    background-size: auto;
+    background-color:aquamarine;
+    
+}
+p {
+    color: magenta;
 }
