@@ -1,0 +1,32 @@
+body {
+    background-image: url("/static/images/background_1.jpg");
+    background-position: center;
+    background-size: auto;
+    background-color: aquamarine;
+    
+}
+h1 {
+    color: rgb(0, 60, 255);
+    font: 40px Arial, Helvetica, sans-serif;
+    font-style: italic;
+}
+p {
+    background-color: #000000;
+    color: hotpink;
+}
+
+#Degrees {
+    background-color: rgba(255, 225, 255, 0.8);
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    gap: 20px;
+}
+
+#Degrees img {
+    width: 50%;
+    height: 800px;
+    object-fit: contain;
+}
+
+
